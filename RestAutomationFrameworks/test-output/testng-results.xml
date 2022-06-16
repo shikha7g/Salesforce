@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T14:39:36 PDT" name="Default suite" finished-at="2022-06-16T14:39:53 PDT" duration-ms="17012">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T14:39:36 PDT" name="Default test" finished-at="2022-06-16T14:39:53 PDT" duration-ms="17012">
+      <class name="com.test.tests.TeckArchApiTestScriptE2E">
+        <test-method is-config="true" signature="baseUri()[pri:0, instance:com.test.tests.TeckArchApiTestScriptE2E@3ce1e309]" started-at="2022-06-16T14:39:36 PDT" name="baseUri" finished-at="2022-06-16T14:39:38 PDT" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUri -->
+        <test-method signature="TC_001_validLogin()[pri:1, instance:com.test.tests.TeckArchApiTestScriptE2E@3ce1e309]" started-at="2022-06-16T14:39:38 PDT" name="TC_001_validLogin" finished-at="2022-06-16T14:39:43 PDT" duration-ms="4796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_validLogin -->
+        <test-method signature="TC_002_addUserData()[pri:2, instance:com.test.tests.TeckArchApiTestScriptE2E@3ce1e309]" started-at="2022-06-16T14:39:43 PDT" name="TC_002_addUserData" finished-at="2022-06-16T14:39:45 PDT" duration-ms="2876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_addUserData -->
+        <test-method signature="TC_003_getUserData()[pri:3, instance:com.test.tests.TeckArchApiTestScriptE2E@3ce1e309]" started-at="2022-06-16T14:39:45 PDT" name="TC_003_getUserData" finished-at="2022-06-16T14:39:51 PDT" duration-ms="5335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_getUserData -->
+        <test-method signature="TC_005_deleteUserData()[pri:4, instance:com.test.tests.TeckArchApiTestScriptE2E@3ce1e309]" started-at="2022-06-16T14:39:51 PDT" name="TC_005_deleteUserData" finished-at="2022-06-16T14:39:53 PDT" duration-ms="2131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005_deleteUserData -->
+      </class> <!-- com.test.tests.TeckArchApiTestScriptE2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
